@@ -1,5 +1,10 @@
 # Kotlin Language Introduction
 
+* https://kotlinlang.org/docs/home.html [Site oficial]
+* https://www.youtube.com/watch?v=xTK81wzyBPw&list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40 [Curso completo de kotlin]
+* https://blog.geekhunter.com.br/introducao-a-kotlin/ [Artigo sobre o kotlin]
+* https://developer.android.com/kotlin?hl=pt-br [Desenvolver apps Android com o Kotlin]
+
 ## Kotlin: Uma Linguagem de Programação Moderna e de Código Aberto
 
 Kotlin é uma linguagem de programação moderna e de código aberto desenvolvida pela JetBrains. Ela foi projetada para ser concisa, segura, interoperável e expressiva, tornando-a uma excelente escolha para o desenvolvimento de aplicativos Android, bem como para o desenvolvimento de outras plataformas, como JVM (Java Virtual Machine), JavaScript e até mesmo nativo.
